@@ -239,58 +239,6 @@ Implementation of a McCulloch-Pitts Neural Network to solve a 7-input XNOR logic
 
 ---
 
-# Learning Topics Covered
-
-This repository demonstrates:
-
-- Artificial Neural Networks (ANN)
-- McCulloch-Pitts Networks
-- ADALINE Networks
-- Single Layer Perceptrons
-- Multi Layer Perceptrons
-- Backpropagation
-- Activation Functions
-- Fuzzy Sets
-- Fuzzy Logic
-- Fuzzification
-- Fuzzy Operations
-- Pattern Recognition
-- Computational Intelligence
-
----
-
-# Requirements
-
-### Development Environment
-
-- Lazarus IDE
-- Free Pascal Compiler (FPC)
-
-### Operating System
-
-- Windows
-- Linux
-- macOS
-
----
-
-# Getting Started
-
-### Clone Repository
-
-```bash
-git clone https://github.com/yourusername/intelligence-system-projects.git
-```
-
-### Open a Project
-
-1. Launch Lazarus IDE.
-2. Navigate to the desired project folder.
-3. Open the project file.
-4. Build and run the application.
-
----
-
 # Educational Purpose
 
 This repository was created for academic and educational purposes to explore the fundamental concepts of:
@@ -317,7 +265,8 @@ The theoretical foundations and experiments are documented in the accompanying r
 # Author
 
 **Windy Deftia M**
-Year creation: 2018
+
+Created in 2018
 
 Biomedical Engineering  
 Institut Teknologi Sepuluh Nopember (ITS)
